@@ -1,4 +1,5 @@
 # AndroidKotlinCoroutines
 Android project with kotlin coroutines sample
 
-![alt tag](/screens/static.png) ![alt tag](/screens/test.gif)
+![alt tag]() ![alt tag]()
+<img src="/screens/static.png" width="260" height="480"> <img src="/screens/test.gif" width="260" height="480">
